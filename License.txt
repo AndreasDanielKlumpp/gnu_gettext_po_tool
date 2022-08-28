@@ -23,9 +23,9 @@ SOFTWARE.
 
 polib_a.py is a fork (by Andreas Klumpp) of polib 1.1.1 - published under the same license (see below)
 
-License: MIT
-
 Original license of polib 1.1.1:
+
+License: MIT
 
 Copyright (c) 2006-2015 David Jean Louis.
 
